@@ -24,7 +24,7 @@ public class PowerUp {
         /// <summary>Will move all passengers (not in a car) to a random bus stop (can play anytime).</summary>
         MOVE_PASSENGER,
 
-        /// <summary>Change destination for a passenger in an opponent’s car to a random company (can play anytime).</summary>
+        /// <summary>Change destination for a passenger in an opponentâ€™s car to a random company (can play anytime).</summary>
         CHANGE_DESTINATION,
 
         /// <summary>Delivery is 1.5X points, but your car travels at 1/4 speed.</summary>
